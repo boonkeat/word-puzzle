@@ -1,0 +1,17 @@
+[
+    {
+        "hint": "I'm made of two words combined and I go on pizzas from Hawaii.",
+        "answer": "pineapple",
+        "complexity": 3
+    },
+    {
+        "hint": "I can be red or green and I grow on a vine. I'm dried to make raisins, or squeezed to make wine.",
+        "answer": "Grapes",
+        "complexity": 2
+    },
+    {
+        "hint": "I am something yellow but not a light. A citrus fruit that's a flavour in Sprite.",
+        "answer": "lemon",
+        "complexity": 1
+    }
+]

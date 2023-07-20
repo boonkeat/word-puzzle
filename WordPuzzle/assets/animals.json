@@ -1,0 +1,17 @@
+[
+    {
+        "hint": "It is black and white. It can run fast. It has 4 legs.",
+        "answer": "zebra",
+        "complexity": 3
+    },
+    {
+        "hint": "It is small and gray. It eats cheese. It has 4 legs.",
+        "answer": "mouse",
+        "complexity": 2
+    },
+    {
+        "hint": "It has 8 legs. It is small and scary. It can climb.",
+        "answer": "spider",
+        "complexity": 1
+    }
+]

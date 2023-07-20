@@ -1,0 +1,17 @@
+[
+    {
+        "hint": "Capital of Singapore",
+        "answer": "singapore",
+        "complexity": 3
+    },
+    {
+        "hint": "Capital of Malaysia",
+        "answer": "kuala lumpur",
+        "complexity": 2
+    },
+    {
+        "hint": "Capital of Thailand",
+        "answer": "bangkok",
+        "complexity": 1
+    }
+]
